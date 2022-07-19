@@ -17,12 +17,12 @@
 <body class="hold-transition login-page">
 <div class="login-box" style="margin-bottom: 20vh;">
   <div class="login-logo">
-    <a href=""><b>SPPR</b></a>
+    <a href=""><b>SPP</b></a>
   </div>
   <!-- /.login-logo -->
   <div class="card">
     <div class="card-body login-card-body">
-      <p class="login-box-msg">Silahkan Login</p>
+      <p class="login-box-msg">Silahkan Login Beasty</p>
       @error('username')
         <div class="alert alert-danger alert-dismissible fade show" role="alert">
           {{ $message }}

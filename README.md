@@ -17,11 +17,11 @@ Website SPP Sekolah Dibuat Dengan :
 # Login 
 
 - ADMIN
-username : admin123
+username : admin
 password : password
 
 - PETUGAS
-username : elaina123
+username : adit123
 password : password
 
 - SISWA
@@ -35,7 +35,7 @@ password : password
 
 # AUTENTIKASI
 Password default dari siswa , petugas , admin yang ditambahkan 
-adalah : sppr2021 (jika belum di ubah) / (jika bukan ditambahkan dari database seeder)
+adalah : spp2022 (jika belum di ubah) / (jika bukan ditambahkan dari database seeder)
 
 
 # FEATURES 

@@ -196,12 +196,12 @@ class DatabaseSeeder extends Seeder
         ]);
 
         $kelas2 = Kelas::create([
-            'nama_kelas' => 'X RPL 2',
+            'nama_kelas' => 'ips',
             'kompetensi_keahlian' => 'Rekayasa Perangkat Lunak',
         ]);
 
         $kelas3 = Kelas::create([
-            'nama_kelas' => 'X MM',
+            'nama_kelas' => 'ipa',
             'kompetensi_keahlian' => 'Multimedia',
         ]);
 
@@ -221,7 +221,7 @@ class DatabaseSeeder extends Seeder
         ]);
 
 		$user2 = User::create([
-    		'username' => 'elaina123',
+    		'username' => 'adit123',
     		'email' => 'elaina@example.com',
     		'password' => Hash::make('password'),
     	]);
